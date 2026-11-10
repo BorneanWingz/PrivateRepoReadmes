@@ -4,6 +4,8 @@ Windows PySide6 manga translation desktop app using any OpenAI-compatible API pr
 
 Latest version in Git: **v1.0.2**
 
+The public copy of this README is maintained as `BlueTLReadme.md` in [PrivateRepoReadmes](https://github.com/BorneanWingz/PrivateRepoReadmes). After changes to this README are pushed to `main`, the sync workflow updates the public copy. Configure the `README_SYNC_TOKEN` Actions secret in BlueTL with a fine-grained GitHub token that has Contents read and write access to PrivateRepoReadmes; without it the sync fails. The workflow can also be run manually from the Actions tab.
+
 ## Unreleased changes
 
 - The icon's outer background is transparent.
