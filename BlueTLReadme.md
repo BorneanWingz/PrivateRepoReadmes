@@ -11,6 +11,7 @@ The public copy of this README is maintained as `BlueTLReadme.md` in [PrivateRep
 - The icon's outer background is transparent.
 - Windows executable properties include the product name and file and product versions.
 - The connection confirmation button is labelled **Save**.
+- The About tab links to the public README and includes an optional support link.
 
 ## What's new in v1.0.2
 
@@ -30,7 +31,7 @@ The public copy of this README is maintained as `BlueTLReadme.md` in [PrivateRep
 
 ## Interface
 
-The Translator tab uses a compact connection summary once a provider is verified; choose **Change** to reopen the Connection card and edit provider details. The Job card keeps the target language, model refresh, API and image status, and primary Import, Recognise OCR, and Translate all actions together. Test API, export, and row-editing actions are grouped below, with the translation table and live status area filling the remaining space.
+The Translator tab uses a compact connection summary once a provider is verified; choose **Change** to reopen the Connection card and edit provider details. The Job card keeps the target language, model refresh, API and image status, and primary Import, Recognise OCR, and Translate all actions together. Test API, export, and row-editing actions are grouped below, with the translation table and live status area filling the remaining space. The About tab links to the public README and to an optional [buy me a cuppa](https://buymeacoffee.com/DrLwSii) page.
 
 ## Run from source
 
